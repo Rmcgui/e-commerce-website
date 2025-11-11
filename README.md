@@ -186,19 +186,6 @@ Upload the contents of `.output/public` to your hosting provider.
 - Edge (latest)
 - Mobile browsers
 
-## 🤝 Contributing
-
-This is a starter template. Feel free to:
-- Add new features
-- Customize the design
-- Integrate with a backend API
-- Add user authentication
-- Implement payment processing
-
-## 📄 License
-
-This project is provided as-is for educational and commercial use.
-
 ## 🔗 Resources
 
 - [Nuxt 3 Documentation](https://nuxt.com/docs)
@@ -239,8 +226,4 @@ npm --version
 
 ## 📞 Support
 
-For questions or issues, please refer to the Nuxt 3 documentation or create an issue in your repository.
-
----
-
-**Happy Coding! 🎉**
+For questions or issues, please refer to the Nuxt 3 documentation or create an issue in repository.
